@@ -44,7 +44,7 @@ After the libraries are installed, re-start the Arduino IDE so that these new li
 
 ### Using the code
 
-You can then copy and paste the attached code in the IDE, assuming:
+You can then copy and paste the attached code (logger_sketch.ino) in the IDE, assuming:
 
 - You want a temperature measurement done every minute or so (use a real-time clock if you need time accuracy),
 - The sensor middle pin is connected to the Arduino's pin 2.
