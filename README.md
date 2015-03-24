@@ -2,6 +2,10 @@
 
 A basic Arduino temperature temperature logger
 
+### Licence
+
+None. Feel free to use it as you wish.
+
 ### Context
 
 Simply out of curiosity, I needed a way to log the temperature in my office. This can be done easily using an Arduino and a 1-wire temperature sensor, as described below. This tutorial is based on another one by [hobbytronics.co.uk](http://www.hobbytronics.co.uk/tutorials-code/arduino-tutorials/ds18b20-arduino).
@@ -58,3 +62,7 @@ Compile and upload the code to the Arduino, and the system should start logging.
 A sample of the measurements done by my setup is shown in the figure below. Raw, unfiltered data is shown using a basic Matlab plot. Temperature spikes can be observed because sun rays directly hit the sensor (for reliable measurements, this should be avoided).
 
 ![Sample output](http://robinroche.com/webpage/images/Ds18b20_output.png)
+
+### Contact
+
+Robin Roche - robinroche.com
