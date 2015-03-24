@@ -1,6 +1,6 @@
 # arduino-temp-logger
 
-A basic Arduino temperature temperature logger
+A basic Arduino temperature temperature logger.
 
 ### Licence
 
