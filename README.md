@@ -26,10 +26,10 @@ Connect all parts as shown on the figure below (the Wifi shield is not shown). M
 
 The source code uses the following libraries:
 
-- #include <OneWire.h>
-- #include <DallasTemperature.h>
-- #include <SD.h>
-- #include <SPI.h>
+- OneWire.h
+- DallasTemperature.h
+- SD.h
+- SPI.h
 
 As the first two are not available by default in Arduino, you need to retrieve and install them:
 
